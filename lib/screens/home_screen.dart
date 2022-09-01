@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:netflix_clone/cubits/cubits.dart';
 import 'package:netflix_clone/data/data.dart';
 import 'package:netflix_clone/widgets/widgets.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomeScreen extends StatefulWidget {
